@@ -1,0 +1,13 @@
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\BancoProjeto.exe
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\obj\Debug\netcoreapp3.0\BancoProjeto.csprojAssemblyReference.cache
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\obj\Debug\netcoreapp3.0\BancoProjeto.AssemblyInfoInputs.cache
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\obj\Debug\netcoreapp3.0\BancoProjeto.AssemblyInfo.cs
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\BancoProjeto.deps.json
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\BancoProjeto.runtimeconfig.json
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\BancoProjeto.runtimeconfig.dev.json
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\BancoProjeto.dll
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\BancoProjeto.pdb
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\bin\Debug\netcoreapp3.0\Autofac.dll
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\obj\Debug\netcoreapp3.0\BancoProjeto.csproj.CopyComplete
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\obj\Debug\netcoreapp3.0\BancoProjeto.dll
+C:\Users\JonathanOL\source\repos\BancoProjeto\BancoProjeto\obj\Debug\netcoreapp3.0\BancoProjeto.pdb
